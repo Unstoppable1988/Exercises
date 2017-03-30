@@ -11,7 +11,7 @@ namespace Exercises
     
         static void Main(string[] args)
         {
-            Prime_Factor.Run();
+            Prime_Factor_ver2.Run();
 
             
         }
