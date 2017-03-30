@@ -1,3 +1,11 @@
+* Console app
+* Namespaces
+* if..else
+* while, for
+* Recursion
+
+
+
 References:
 * https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html
 * https://www.gitbook.com/book/wizardforcel/sicp-in-python/details
