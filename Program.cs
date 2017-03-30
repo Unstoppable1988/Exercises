@@ -11,7 +11,7 @@ namespace Exercises
     
         static void Main(string[] args)
         {
-            Squares_2_of_3.Run();
+            Fibonachi.Run();
 
             
         }
