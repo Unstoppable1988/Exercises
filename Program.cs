@@ -11,7 +11,7 @@ namespace Exercises
     
         static void Main(string[] args)
         {
-            Factorial.Run();
+            Multiplies_of_3_and_5.Run();
 
             
         }
