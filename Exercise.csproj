@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Fibonachi.cs" />
+    <Compile Include="Prime Factor.cs" />
     <Compile Include="Squares 2 of 3.cs" />
     <Compile Include="Multiplies of 3 and 5.cs" />
     <Compile Include="Factorial.cs" />
