@@ -1,5 +1,5 @@
 ### Topics:
-- [ ] Console app
+- [x] Console app
 - [x] Console.ReadLine(), Console.WriteLine()
 - [ ] int is alias of System.Int32
 - [ ] int.Parse
