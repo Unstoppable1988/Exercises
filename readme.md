@@ -1,4 +1,4 @@
-* Console app
+- [ ] Console app
 * Namespaces
 * if..else
 * while, for
