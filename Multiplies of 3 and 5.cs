@@ -4,26 +4,19 @@ namespace Exercises
 {
     class Multiplies_of_3_and_5
     {
-       public static void Run()
+        public static void Run()
         {
             int x = 0;
 
-            int a = 0;
+            for (int z = 0; z < 1000; z++)
+            {
+                if (z%3 == 0 || z % 5 == 0)
+                {
+                    x = x + z;
+                } 
+            }
 
-            int i;
-
-            for (int y = x; y < 1000; y=y+3)
-                
-                x = x + y;
-
-            for (int b = a; b < 1000; b = b + 5)
-
-                a = a + b;
-
-            i = a + x;  
-
-
-                Console.WriteLine("Multipies sum  = " + i);
+            Console.WriteLine("Multipies sum  = " + x);
 
 
             Console.ReadLine();
