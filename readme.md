@@ -4,8 +4,8 @@
 - [ ] int is alias of System.Int32
 - [ ] int.Parse
 - [ ]  Namespaces
-- [ ]  if..else
-- [ ]  while, for
+- [x]  if..else
+- [x]  while, for
 - [ ]  Functions (void)
 - [ ]  Recursion
 - [ ]  Classes (static, new, public, private)
