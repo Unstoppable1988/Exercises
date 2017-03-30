@@ -1,6 +1,8 @@
 ### Topics:
 - [ ] Console app
-- [+] Console.ReadLine(), Console.WriteLine()
+- [x] Console.ReadLine(), Console.WriteLine()
+- [ ] int is alias of System.Int32
+- [ ] int.Parse
 - [ ]  Namespaces
 - [ ]  if..else
 - [ ]  while, for
