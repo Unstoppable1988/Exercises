@@ -6,7 +6,7 @@
 - [ ]  Namespaces
 - [x]  if..else
 - [x]  while, for
-- [ ]  Functions (void)
+- [ ]  Functions (void, out, param, ref)
 - [ ]  Recursion
 - [ ]  Classes (static, new, public, private)
 - [ ]  Inheritance (protected)
