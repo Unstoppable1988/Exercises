@@ -10,28 +10,23 @@ namespace Exercises
 
             int vtoroe = 1;
 
-            int predel;
+            int sum = 0;
 
-           Console.WriteLine("Введите количество чисел фибоначи");
-
-            predel = int.Parse(Console.ReadLine());
-
-            for (int x = 0; x < predel; x++)
+            for (int x = 0; x < 4000000; x = pervoe + vtoroe)
             {
-               int chislo = pervoe + vtoroe;
-
                 pervoe = vtoroe;
 
-                vtoroe = chislo;
+                vtoroe = x;
 
-                if (chislo%2 == 0)
+                if (x % 2 == 0)
                 {
-                    Console.WriteLine(chislo);
+                    sum = sum + x;
                 }
-
-                
+                                
             }
-              
+
+            Console.WriteLine("Sum of the even-valued terms is  " + sum);
+
             Console.ReadLine();
         }
     }
