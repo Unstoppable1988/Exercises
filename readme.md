@@ -1,5 +1,6 @@
 ### Topics:
 - [ ] Console app
+- [+] Console.ReadLine(), Console.WriteLine()
 - [ ]  Namespaces
 - [ ]  if..else
 - [ ]  while, for
