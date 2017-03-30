@@ -1,9 +1,12 @@
 ### Topics:
-- [ ] Console app
+- [x] Console app
+- [x] Console.ReadLine(), Console.WriteLine()
+- [ ] int is alias of System.Int32
+- [ ] int.Parse
 - [ ]  Namespaces
-- [ ]  if..else
-- [ ]  while, for
-- [ ]  Functions (void)
+- [x]  if..else
+- [x]  while, for
+- [ ]  Functions (void, out, param, ref)
 - [ ]  Recursion
 - [ ]  Classes (static, new, public, private)
 - [ ]  Inheritance (protected)
