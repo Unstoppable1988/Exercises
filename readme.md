@@ -5,8 +5,8 @@
 - [ ]  while, for
 - [ ]  Functions (void)
 - [ ]  Recursion
-- [ ]  Classes (static, public, private, protected)
-- [ ]  Inheritance
+- [ ]  Classes (static, new, public, private)
+- [ ]  Inheritance (protected)
 - [ ]  Unit tests
 
 
