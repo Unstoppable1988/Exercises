@@ -6,7 +6,7 @@ namespace Exercises
     {
        public static void Run()
         {
-            int pervoe = 1;
+            int pervoe = 0;
 
             int vtoroe = 1;
 
@@ -16,19 +16,22 @@ namespace Exercises
 
             predel = int.Parse(Console.ReadLine());
 
-            for (int x = 0; x > predel; x++)
+            for (int x = 0; x < predel; x++)
             {
-               int ffibonachi = pervoe + vtoroe;
+               int chislo = pervoe + vtoroe;
 
                 pervoe = vtoroe;
 
-                vtoroe = ffibonachi;
-             
+                vtoroe = chislo;
+
+                if (chislo%2 == 0)
+                {
+                    Console.WriteLine(chislo);
+                }
+
+                
             }
               
-            Console.WriteLine("Fibonachi  = " + ffibonachi);
-
-
             Console.ReadLine();
         }
     }
