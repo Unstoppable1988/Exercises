@@ -5,14 +5,14 @@
 - [x] while, for
 - [ ] Functions (void)
 - [ ] Recursion
+- [ ] Exceptions
+- [ ] Strings
 - [ ] Namespaces
 - [ ] Classes (static, new, public, private)
 - [ ] Inheritance (protected)
 - [ ] Interfaces
 - [ ] Lists (matrixes), Dictionaries
 - [ ] Algorithms (sort, search)
-- [ ] Exceptions
-- [ ] Strings
 - [ ] Unit tests
 
 
