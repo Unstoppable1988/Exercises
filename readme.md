@@ -1,20 +1,22 @@
 ### Topics:
 - [x] Console app
 - [x] Console.ReadLine(), Console.WriteLine()
-- [ ] int is alias of System.Int32
-- [ ] int.Parse
-- [ ] Namespaces
 - [x] if..else
 - [x] while, for
 - [ ] Functions (void)
-- [ ] Recursion, tree recursion
+- [ ] Recursion
+- [ ] Namespaces
 - [ ] Classes (static, new, public, private)
 - [ ] Inheritance (protected)
+- [ ] Interfaces
+- [ ] Lists (matrixes), Dictionaries
+- [ ] Algorithms (sort, search)
+- [ ] Exceptions
+- [ ] Strings
 - [ ] Unit tests
 
 
 
 ### References:
-* http://www.introprogramming.info/english-intro-csharp-book/read-online/chapter-1-introduction-to-programming/
-* http://sarabander.github.io/sicp/html/index.xhtml
+* SICP
 * https://projecteuler.net/problem=1
