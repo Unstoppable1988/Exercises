@@ -18,6 +18,6 @@
 
 
 ### References:
-* SICP
-* https://projecteuler.net/
+* Theory: SICP
+* Practice: projecteuler.net
 
