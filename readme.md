@@ -5,7 +5,7 @@
 - [x] while, for
 - [x] Functions (void)
 - [x] Recursion
-- [ ] Exceptions
+- [x] Exceptions (try, catch)
 - [ ] Strings/Chars
 - [x] Namespaces
 - [ ] Classes (static, new, public, private)
