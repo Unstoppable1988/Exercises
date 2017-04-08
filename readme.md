@@ -6,7 +6,7 @@
 - [x] Functions (void)
 - [x] Recursion
 - [x] Exceptions (try, catch)
-- [ ] Strings/Chars
+- [x] Strings/Chars
 - [x] Namespaces
 - [ ] Classes (static, new, public, private)
 - [ ] Inheritance (protected)
