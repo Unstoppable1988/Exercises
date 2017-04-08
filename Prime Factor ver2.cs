@@ -4,36 +4,30 @@ namespace Exercises
 {
     class Prime_Factor_ver2
     {
-        static bool IsFactor(int z, int chislo)
+        static bool IsFactor(int z, decimal a)
         {
-          return chislo % z == 0; 
-        };
-
-        static bool IsPrime(int num)
-
-        {
-
+            return a % z == 0;
         }
 
+        static bool IsPrime(int a)
+        {
+            for (int x = 2; x < a; x++)
+            {
+                bool check = IsFactor(x, a);
+
+                if (check == true)
+                {
+                    return false;
+                }
+               
+            }
+            return true;
+        }
         public static void Run()
         {
+            bool text = IsPrime(6857);
             
-
-            Console.WriteLine("Введите число");
-
-            decimal chislo;
-
-            chislo = decimal.Parse(Console.ReadLine());
-
-            for (decimal z = 2; z < chislo; z++)
-
-            { 
-                if (chislo%z == 0)
-                {
-                    chislo = chislo / z;
-                } 
-            }
-            Console.WriteLine(chislo);
+            Console.WriteLine(text);
 
             Console.ReadLine();
         }
