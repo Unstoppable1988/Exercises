@@ -7,7 +7,7 @@
 - [x] Recursion
 - [ ] Exceptions
 - [ ] Strings/Chars
-- [ ] Namespaces
+- [x] Namespaces
 - [ ] Classes (static, new, public, private)
 - [ ] Inheritance (protected)
 - [ ] Interfaces
