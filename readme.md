@@ -3,8 +3,8 @@
 - [x] Console.ReadLine(), Console.WriteLine()
 - [x] if..else
 - [x] while, for
-- [ ] Functions (void)
-- [ ] Recursion
+- [x] Functions (void)
+- [x] Recursion
 - [ ] Exceptions
 - [ ] Strings
 - [ ] Namespaces
