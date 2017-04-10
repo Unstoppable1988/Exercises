@@ -4,27 +4,33 @@ namespace Exercises
 {
     class Palindrome
     {
-        static int Chislo()
-
+        public static int Chislo()
         {
+            int a;
+            int b = 0;
 
-            for (int x = 100; x < 1000; x++)
+            for (int x = 335; x < 1000; x++)
             {
-                for (int y = 100; y < 1000; y++)
+                for (int y = 335; y < 1000; y++)
                 {
-                    return x * y;
+                    a = x * y;
+                    string s = a.ToString();
+                    if (s[0] == s[5] && s[1] == s[4] && s[3] == s[2] && a > b)
+                    {
+                        b = a;
+                    }
                 }
-                string s = x.ToString();
-                if (s[5] == s[0]) { .. }
             }
+            return b;
         }
-
-
-
-
-
-        Console.WriteLine();
+        public static void Run()
+        {
+            Console.WriteLine(Chislo());
             Console.ReadLine();
-        
+        }
     }
 }
+
+
+
+
