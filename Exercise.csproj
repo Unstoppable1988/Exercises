@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Palindrome.cs" />
     <Compile Include="Recursion.cs" />
     <Compile Include="Fibonachi.cs" />
     <Compile Include="Prime Factor ver2.cs" />
