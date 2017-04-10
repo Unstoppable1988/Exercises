@@ -8,11 +8,11 @@
 - [x] Exceptions (try, catch)
 - [x] Strings/Chars
 - [x] Namespaces
+- [ ] Lists (matrixes), Dictionaries
+- [ ] Algorithms (sort, search)
 - [ ] Classes (static, new, public, private)
 - [ ] Inheritance (protected)
 - [ ] Interfaces
-- [ ] Lists (matrixes), Dictionaries
-- [ ] Algorithms (sort, search)
 - [ ] Unit tests
 
 
@@ -20,4 +20,5 @@
 ### References:
 * Theory: SICP
 * Practice: projecteuler.net
+
 
