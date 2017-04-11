@@ -6,7 +6,7 @@ namespace Exercises
     {
         public static int Chislo()
         {
-            int a;
+            int a; 
             int b = 0;
 
             for (int x = 335; x < 1000; x++)
