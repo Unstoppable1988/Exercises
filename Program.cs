@@ -11,7 +11,7 @@ namespace Exercises
     
         static void Main(string[] args)
         {
-            Smalest_multiplie.Run();
+            Sum_square_difference.Run();
 
             
         }

@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Sum square difference.cs" />
     <Compile Include="Smallest multiplie.cs" />
     <Compile Include="Palindrome.cs" />
     <Compile Include="Recursion.cs" />
