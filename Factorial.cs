@@ -6,15 +6,15 @@ namespace Exercises
     {
        public static void Run()
         {
-            int chislo;
+            decimal chislo;
 
-            int factorial = 1;
+            decimal factorial = 1;
 
             Console.WriteLine("Введите число");
 
             chislo = int.Parse(Console.ReadLine());
 
-            for (int x = chislo; x > 1; x--)
+            for (decimal x = chislo; x > 1; x--)
 
                 factorial = factorial * x;
 

@@ -4,22 +4,32 @@ namespace Exercises
 {
     class Smalest_multiplie
     {
-        public static int isDividible(int z)
+        public static bool IsDividible(int z)
         {
             for (int a = 1; a < 21; a++)
             {
-                if(z%a)
+                if (z % a != 0)
+                {
+                    return false;
+                }
             }
+            return true;
         }
         public static void Run()
         {
-            for (x = 1; x > 0; x++)
+            public static bool Compilation()
             {
-                isDividible()
+                for (int x = 1; ; x++)
+                {
+                    if (IsDividible(x) == false)
+                    {
+                        return true;
+                    }
+                }
+                return false;
             }
 
-
-            Console.WriteLine(Chislo());
+            Console.WriteLine();
             Console.ReadLine();
         }
     }
