@@ -17,19 +17,14 @@ namespace Exercises
         }
         public static void Run()
         {
-            public static bool Compilation()
+            for (int x = 1; ; x++)
             {
-                for (int x = 1; ; x++)
+                if (IsDividible(x) == true)
                 {
-                    if (IsDividible(x) == false)
-                    {
-                        return true;
-                    }
+                    Console.WriteLine(x);
+                    break;
                 }
-                return false;
             }
-
-            Console.WriteLine();
             Console.ReadLine();
         }
     }
