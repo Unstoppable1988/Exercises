@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="10001 Prime.cs" />
+    <Compile Include="Replace word.cs" />
     <Compile Include="Sum square difference.cs" />
     <Compile Include="Smallest multiplie.cs" />
     <Compile Include="Palindrome.cs" />

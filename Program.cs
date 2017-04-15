@@ -11,7 +11,7 @@ namespace Exercises
     
         static void Main(string[] args)
         {
-            Sum_square_difference.Run();
+            Prime_10001.Run();
 
             
         }
