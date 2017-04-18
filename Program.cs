@@ -11,7 +11,7 @@ namespace Exercises
     
         static void Main(string[] args)
         {
-            Sum_of_primes_2.Run();
+            Replace_word.Run();
 
             
         }
