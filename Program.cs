@@ -11,7 +11,7 @@ namespace Exercises
     
         static void Main(string[] args)
         {
-            Pythagorean_triplet.Run();
+            Sum_of_primes_2.Run();
 
             
         }

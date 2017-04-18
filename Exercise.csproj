@@ -43,6 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="10001 Prime.cs" />
+    <Compile Include="Sum of primes ver2.cs" />
+    <Compile Include="Sum of primes ver1.cs" />
     <Compile Include="Pythagorean triplet.cs" />
     <Compile Include="Replace word.cs" />
     <Compile Include="Sum square difference.cs" />
