@@ -28,9 +28,9 @@ namespace Exercises
             }
             
             int maximumProduct = 0;
-            for (int b = 0; b < massiv.Length - 13; b++)
+            for (int elementNumber = 0; elementNumber < massiv.Length - 13; elementNumber++)
             {
-                int currentMassivNumber = GetProductOf13Elements(massiv);
+                int currentMassivNumber = GetProductOf13Elements(massiv, elementNumber);
                 if (currentMassivNumber > maximumProduct)
                 {
                     maximumProduct = currentMassivNumber;
