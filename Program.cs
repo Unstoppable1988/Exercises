@@ -11,7 +11,7 @@ namespace Exercises
     
         static void Main(string[] args)
         {
-            Replace_word.Run();
+            Largest_product.Run();
 
             
         }
