@@ -30,10 +30,10 @@ namespace Exercises
             int maximumProduct = 0;
             for (int elementNumber = 0; elementNumber < massiv.Length - 13; elementNumber++)
             {
-                int currentMassivNumber = GetProductOf13Elements(massiv, elementNumber);
-                if (currentMassivNumber > maximumProduct)
+                int currentProductOf13 = GetProductOf13Elements(massiv, elementNumber);
+                if (currentProductOf13 > maximumProduct)
                 {
-                    maximumProduct = currentMassivNumber;
+                    maximumProduct = currentProductOf13;
                 }
             }
             Console.WriteLine(maximumProduct);
