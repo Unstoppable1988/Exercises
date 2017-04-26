@@ -11,7 +11,7 @@ namespace Exercises
     
         static void Main(string[] args)
         {
-            Sort_array_reverse.Run();
+            Triangle_Number.Run();
 
             
         }

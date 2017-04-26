@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="10001 Prime.cs" />
+    <Compile Include="Triangle number.cs" />
     <Compile Include="Sort array reverse.cs" />
     <Compile Include="Sort array.cs" />
     <Compile Include="Largest product.cs" />
