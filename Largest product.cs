@@ -8,9 +8,9 @@ namespace Exercises
 {
     class Largest_product
     {
-        public static int GetProductOf13Elements(int[] array, int fromPosition)
+        public static decimal GetProductOf13Elements(int[] array, int fromPosition)
         {
-            int product = 1;
+            decimal product = 1;
             for (int i = fromPosition; i < fromPosition + 13; i++)
             {
                 product = product * array[i];
@@ -27,10 +27,10 @@ namespace Exercises
                 massiv[i] = (int)Char.GetNumericValue(list[i]);
             }
             
-            int maximumProduct = 0;
+            decimal maximumProduct = 0;
             for (int elementNumber = 0; elementNumber < massiv.Length - 13; elementNumber++)
             {
-                int currentProductOf13 = GetProductOf13Elements(massiv, elementNumber);
+                decimal currentProductOf13 = GetProductOf13Elements(massiv, elementNumber);
                 if (currentProductOf13 > maximumProduct)
                 {
                     maximumProduct = currentProductOf13;
