@@ -11,7 +11,7 @@ namespace Exercises
     
         static void Main(string[] args)
         {
-            Triangle_Number.Run();
+            Array_practice_1.Run();
 
             
         }
