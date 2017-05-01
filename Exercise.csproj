@@ -45,6 +45,8 @@
     <Compile Include="10001 Prime.cs" />
     <Compile Include="Array practice 1.cs" />
     <Compile Include="Array practice 2.cs" />
+    <Compile Include="Array practice 3_1.cs" />
+    <Compile Include="Array practice 3.cs" />
     <Compile Include="Triangle number.cs" />
     <Compile Include="Sort array reverse.cs" />
     <Compile Include="Sort array.cs" />
