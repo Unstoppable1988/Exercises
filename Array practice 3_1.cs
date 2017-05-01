@@ -22,13 +22,12 @@ namespace Exercises
         }
         public static int[] InsertIntoArray(int[] array, int position, int number)
         {
-            int[] newArray = array;
-            int newArraySize = array.Length + 1;
-            for (int x = newArraySize - 1; position <=x ; x--)
+            int[] newArray = new int[array.Length + 1];
+            for (int x = newArray.Length - 1; position <= x; x--)
             {
                 newArray[x + 1] = newArray[x];
             }
-            newArray[position-1] = number;
+            newArray[position - 1] = number;
             return newArray;
         }
         public static void Run()
