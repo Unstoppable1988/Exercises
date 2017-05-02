@@ -22,24 +22,24 @@ namespace Exercises
         }
         public static int[] FindNumberIntoArray(int[] array, int number)
         {
-            int position = 0;
+            int[] result = new int[0];
             for (int z = 0; z < array.Length; z++)
             {
                 if (array[z] == number)
                 {
-                    position = position + 1;
-                    InsertIntoArray(position, z);
+                    result = InsertIntoArray(result, z);
                 }
             }
-            return array;
+            return result;
         }
-        public static int[] InsertIntoArray(int position, int positionNumber)
+        public static int[] InsertIntoArray(int[] oldArray, int positionNumber)
         {
-            int[] newArray = new int[position];
-            for (int z = 0; z < newArray.Length; z++)
+            int[] newArray = new int[oldArray.Length + 1];
+            for (int z = 0; z < newArray.Length - 1; z++)
             {
-                newArray[z] = positionNumber;
+                newArray[z] = oldArray[z];
             }
+            newArray[oldArray.Length] = positionNumber + 1;
             return newArray;
         }
         public static void Run()
