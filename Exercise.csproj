@@ -51,6 +51,7 @@
     <Compile Include="Array practice 5.cs" />
     <Compile Include="Array practice 6.cs" />
     <Compile Include="Array practice 7.cs" />
+    <Compile Include="Array practice 8.cs" />
     <Compile Include="Triangle number.cs" />
     <Compile Include="Sort array reverse.cs" />
     <Compile Include="Sort array.cs" />

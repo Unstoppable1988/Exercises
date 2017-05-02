@@ -11,7 +11,7 @@ namespace Exercises
     
         static void Main(string[] args)
         {
-            Array_practice_7.Run();
+            Array_practice_8.Run();
 
             
         }
