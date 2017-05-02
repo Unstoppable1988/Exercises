@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercises
 {
-    class Array_practice_3_1
+    class Array_practice_4
     {
         public static int[] CreateRandomArray()
         {
@@ -14,20 +14,23 @@ namespace Exercises
             int size = int.Parse(Console.ReadLine());
             int[] array = new int[size];
             Random randomArrayNumbers = new Random();
-            for (int z = 0; z < array.Length; z++)
+            for (int y = 0; y < array.Length; y++)
             {
-                array[z] = randomArrayNumbers.Next(0, 100);
+                array[y] = randomArrayNumbers.Next(0, 100);
             }
             return array;
         }
-        public static int[] InsertIntoArray(int[] array, int position, int number)
+        public static int[] DeleteFromArray(int[] array, int position)
         {
-            int[] newArray = new int[array.Length + 1];
-            for (int x = newArray.Length - 1; position <= x; x--)
+            int[] newArray = new int[array.Length - 1];
+            for (int z = 0; z < position - 1; z++)
             {
-                newArray[x + 1] = newArray[x];
+                newArray[z] = array[z];
             }
-            newArray[position - 1] = number;
+            for (int z = position - 1; z < newArray.Length; z++)
+            {
+                newArray[z] = array[z + 1];
+            }
             return newArray;
         }
         public static void Run()
@@ -38,12 +41,10 @@ namespace Exercises
             {
                 Console.WriteLine(nums[x]);
             }
-            Console.WriteLine("Enter number to input it into array");
-            int number = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter position into array");
+            Console.WriteLine("Enter position to delete it from array");
             int position = int.Parse(Console.ReadLine());
             Console.WriteLine("Your array now looks like:");
-            int[] newNums = InsertIntoArray(nums, position, number);
+            int[] newNums = DeleteFromArray(nums, position);
             for (int x = 0; x < newNums.Length; x++)
             {
                 Console.WriteLine(newNums[x]);

@@ -12,13 +12,13 @@ namespace Exercises
         {
             Console.WriteLine("Enter the size of array");
             int size = int.Parse(Console.ReadLine());
-            int[] Array = new int[size];
+            int[] array = new int[size];
             Random randomArrayNumbers = new Random();
-            for (int y = 0; y < Array.Length; y++)
+            for (int y = 0; y < array.Length; y++)
             {
-                Array[y] = randomArrayNumbers.Next(0, 100);
+                array[y] = randomArrayNumbers.Next(0, 100);
             }
-            return Array;
+            return array;
         }
         public static int[] InsertIntoArray(int[] array, int position, int number)
         {
