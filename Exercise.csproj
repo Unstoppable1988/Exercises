@@ -48,6 +48,7 @@
     <Compile Include="Array practice 3_1.cs" />
     <Compile Include="Array practice 3.cs" />
     <Compile Include="Array practice 4.cs" />
+    <Compile Include="Array practice 5.cs" />
     <Compile Include="Triangle number.cs" />
     <Compile Include="Sort array reverse.cs" />
     <Compile Include="Sort array.cs" />
