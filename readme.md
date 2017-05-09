@@ -8,8 +8,8 @@
 - [x] Exceptions (try, catch)
 - [x] Strings/Chars
 - [x] Namespaces
-- [ ] Arrays
-- [ ] Algorithms (sort, search)
+- [x] Arrays
+- [x] Algorithms (sort, search)
 - [ ] Classes (static, new, public, private)
 - [ ] Unit tests
 
