@@ -10,7 +10,7 @@
 - [x] Namespaces
 - [x] Arrays
 - [x] Algorithms (sort, search)
-- [ ] Classes (static, new, public, private)
+- [x] Classes (static, new, public, private)
 - [ ] Unit tests
 
 
