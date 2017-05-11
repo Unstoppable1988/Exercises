@@ -44,29 +44,29 @@ namespace Exercises
             newArray[newArray.Length - 1][1] = number;
             return newArray;
         }
-    public static void Run()
-    {
-        int[] nums = CreateRandomArray();
-        Console.WriteLine("Your random created array is:");
-        for (int x = 0; x < nums.Length; x++)
+        public static void Run()
         {
-            Console.WriteLine(nums[x]);
-        }
-        Console.WriteLine("Enter number to find it index into array");
-        int number = int.Parse(Console.ReadLine());
-        Console.WriteLine("Position of the number into array is:");
-        int[][] newNums = FindNumberIntoArray(nums, number);
-        for (int i = 0; i < newNums.Length; i++)
-        {
-            Console.Write("Element({0}): ", i);
-
-            for (int j = 0; j < newNums[i].Length; j++)
+            int[] nums = CreateRandomArray();
+            Console.WriteLine("Your random created array is:");
+            for (int x = 0; x < nums.Length; x++)
             {
-                Console.Write("{0}{1}", newNums[i][j], j == (newNums[i].Length - 1) ? "" : " ");
+                Console.WriteLine(nums[x]);
             }
-            Console.WriteLine();
+            Console.WriteLine("Enter number to find it index into array");
+            int number = int.Parse(Console.ReadLine());
+            Console.WriteLine("Position of the number into array is:");
+            int[][] newNums = FindNumberIntoArray(nums, number);
+            for (int i = 0; i < newNums.Length; i++)
+            {
+                Console.Write("Element({0}): ", i);
+
+                for (int j = 0; j < newNums[i].Length; j++)
+                {
+                    Console.Write("{0}{1}", newNums[i][j], j == (newNums[i].Length - 1) ? "" : " ");
+                }
+                Console.WriteLine();
+            }
+            Console.ReadLine();
         }
-        Console.ReadLine();
     }
-}
 }
