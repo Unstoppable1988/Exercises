@@ -11,7 +11,10 @@
 - [x] Arrays
 - [x] Algorithms (sort, search)
 - [x] Classes (static, new, public, private)
-- [ ] Unit tests
+- [ ] Manual tests (test login)
+- [ ] Auto selenium test via scripts
+- [ ] Unit test (white box) via nunit, nsubstitute, moq
+- [ ] Integration test (black box) via specflow, selenium web driver (phantomjs, headless Chromium)
 
 
 
