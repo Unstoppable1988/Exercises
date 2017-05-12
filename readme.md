@@ -1,6 +1,7 @@
 ### Topics:
 - [x] Console app
 - [x] Console.ReadLine(), Console.WriteLine()
+- [x] Generate random number
 - [x] if..else
 - [x] while, for
 - [x] Functions
