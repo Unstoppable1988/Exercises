@@ -18,15 +18,8 @@ Expected knowledge and skills:
 - Experience of bug tracking systems (Devtrack, Mantis, Jira)
 - An understanding of the game development process
 
-In order to consider your application, we require to send full version of your CV and 1 page motivation letter to the following email address: kharkov@gameloft.com
+In order to consider your application, we require to send full version of your CV and 1 page motivation letter
 
 !!! Motivation letter should include answer to the following question: Why do you want to be/can be VIDEO GAMES tester?
 
 !!! BOTH DOCUMENTS SHOULD BE IN ENGLISH !!!
-
-Why to work for Gameloft?
-
-Join one of the most exciting industrial sectors today, whose partners and clients are Apple, Microsoft, Nokia, Facebook, Google, Nintendo, Samsung, telecommunication operators, etc.
-An exceptional, dynamic, demanding and motivating working environment within a fast growing company.
-An international environment which offers daily contact with other countries & cultures.
-Excellent local working conditions. 
