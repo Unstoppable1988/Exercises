@@ -1,16 +1,4 @@
-# Учить
-- [ ] Понимание процесса тестирования (вообще и относительно к играм в частности)
-* http://sqadays.com/ru/talk/11088
-* http://okiseleva.blogspot.com/2011/12/blog-post_29.html
-* http://blog.aksi.rocks/2016/06/blog-post.html
-* http://software-testing.ru/library/testing/other-testing/2260-testing-games-is-hard
-- [ ] Знание основ программирования
-- [ ] Familiarity with iOS and Android apps. Good knowledge of mobile and tablet navigation
-- [ ] Experience of bug tracking systems (Devtrack, Mantis, Jira)
-- [ ] An understanding of the game development process
-* http://www.dis.uniroma1.it/~catarci/ps_PDF_files/Games1.pdf
-* https://www.juegostudio.com/process.html
-* http://web.cs.wpi.edu/~id111x/c05/
+# Выбрать что читать
 - [ ] https://habrahabr.ru/company/jugru/blog/328532/
 - [ ] https://habrahabr.ru/company/it_people/blog/325516/
 - [ ] http://radio-qa.com/
@@ -23,6 +11,7 @@
 - [ ] https://www.youtube.com/channel/UCxFyB18x7XJTUuwHgPVfnkQ/playlists
 
 
+
 # Тренировать
 - [ ] Обнаружение и описание ошибок (найти опенсорс проект, искать в нем баги и репортить). Find and precisely describe, reproduce and rate bugs found in games.
 * List of games 1: https://github.com/showcases/web-games
@@ -30,7 +19,22 @@
 * https://github.com/doublespeakgames/adarkroom
 * https://github.com/AlexNisnevich/untrusted
 * https://github.com/Hextris/hextris
-- [ ] Знание английского языка на уровне грамотного написания отчетов об ошибках (каждый день читать баг репорты к играм на английском, статьи о тестировании игр, разработки игр, проcто об играх)
+- [ ] Знание английского языка на уровне грамотного написания отчетов об ошибках
+* Каждый день читать баг репорты к играм на английском, статьи о тестировании игр, разработки игр, проcто об играх
+- [ ] Знание основ программирования 
+* Повторить SQL, C#
+- [ ] Понимание процесса тестирования (вообще и относительно к играм в частности)
+* http://sqadays.com/ru/talk/11088
+* http://okiseleva.blogspot.com/2011/12/blog-post_29.html
+* http://blog.aksi.rocks/2016/06/blog-post.html
+* http://software-testing.ru/library/testing/other-testing/2260-testing-games-is-hard
+- [ ] Familiarity with iOS and Android apps. Good knowledge of mobile and tablet navigation
+- [ ] Experience of bug tracking systems (Devtrack, Mantis, Jira)
+- [ ] An understanding of the game development process
+* http://www.dis.uniroma1.it/~catarci/ps_PDF_files/Games1.pdf
+* https://www.juegostudio.com/process.html
+* http://web.cs.wpi.edu/~id111x/c05/
+
 
 
 # Отразить в резюме
