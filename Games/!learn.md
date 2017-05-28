@@ -2,8 +2,7 @@
 - [ ] Понимание процесса тестирования (вообще и относительно к играм в частности)
 - [ ] Знание английского языка на уровне грамотного написания отчетов об ошибках (каждый день читать баг репорты к играм на английском, статьи о тестировании игр, разработки игр, проcто об играх)
 - [ ] Знание основ программирования
-- [ ] Familiarity with iOS and Android apps
-- [ ] Good knowledge of mobile and tablet navigation
+- [ ] Familiarity with iOS and Android apps. Good knowledge of mobile and tablet navigation
 - [ ] Experience of bug tracking systems (Devtrack, Mantis, Jira)
 - [ ] An understanding of the game development process
 
