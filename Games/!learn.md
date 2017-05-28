@@ -8,7 +8,11 @@
 
 # Тренировать
 - [ ] Обнаружение и описание ошибок (найти опенсорс проект, искать в нем баги и репортить). Find and precisely describe, reproduce and rate bugs found in games.
-* https://github.com/showcases/web-games
+* List of games 1: https://github.com/showcases/web-games
+* List of games 2: https://github.com/leereilly/games
+* https://github.com/doublespeakgames/adarkroom
+* https://github.com/AlexNisnevich/untrusted
+* https://github.com/Hextris/hextris
 
 # Отразить в резюме
 - [ ] Игровой опыт, интерес к играм, знание игровой терминологии, huge passion to video game
