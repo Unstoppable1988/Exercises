@@ -4,7 +4,6 @@
 * http://okiseleva.blogspot.com/2011/12/blog-post_29.html
 * http://blog.aksi.rocks/2016/06/blog-post.html
 * http://software-testing.ru/library/testing/other-testing/2260-testing-games-is-hard
-- [ ] Знание английского языка на уровне грамотного написания отчетов об ошибках (каждый день читать баг репорты к играм на английском, статьи о тестировании игр, разработки игр, проcто об играх)
 - [ ] Знание основ программирования
 - [ ] Familiarity with iOS and Android apps. Good knowledge of mobile and tablet navigation
 - [ ] Experience of bug tracking systems (Devtrack, Mantis, Jira)
@@ -28,6 +27,7 @@
 * https://github.com/doublespeakgames/adarkroom
 * https://github.com/AlexNisnevich/untrusted
 * https://github.com/Hextris/hextris
+- [ ] Знание английского языка на уровне грамотного написания отчетов об ошибках (каждый день читать баг репорты к играм на английском, статьи о тестировании игр, разработки игр, проcто об играх)
 
 
 # Отразить в резюме
