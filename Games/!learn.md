@@ -9,6 +9,8 @@
 - [ ] Experience of bug tracking systems (Devtrack, Mantis, Jira)
 - [ ] An understanding of the game development process
 * http://www.dis.uniroma1.it/~catarci/ps_PDF_files/Games1.pdf
+* https://www.juegostudio.com/process.html
+* http://web.cs.wpi.edu/~id111x/c05/
 - [ ] https://habrahabr.ru/company/jugru/blog/328532/
 - [ ] https://habrahabr.ru/company/it_people/blog/325516/
 - [ ] http://radio-qa.com/
