@@ -13,12 +13,9 @@
 
 
 # Тренировать
-- [ ] Обнаружение и описание ошибок (найти опенсорс проект, искать в нем баги и репортить). Find and precisely describe, reproduce and rate bugs found in games.
-* List of games 1: https://github.com/showcases/web-games
-* List of games 2: https://github.com/leereilly/games
-* https://github.com/doublespeakgames/adarkroom
-* https://github.com/AlexNisnevich/untrusted
-* https://github.com/Hextris/hextris
+- [ ] Обнаружение и описание ошибок. Find and precisely describe, reproduce and rate bugs found in games.
+* If you have 10-30 minutes: find bug in some game in the list https://github.com/leereilly/games and translate into Russian
+* If you have enough time: rewrite bug report according to https://testlio.com/blog/the-ideal-bug-report/ template and save to github
 - [ ] Знание английского языка на уровне грамотного написания отчетов об ошибках
 * Каждый день читать баг репорты к играм на английском, статьи о тестировании игр, разработки игр, проcто об играх
 - [ ] Знание основ программирования 
