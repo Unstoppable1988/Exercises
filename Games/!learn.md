@@ -1,17 +1,3 @@
-# Выбрать что читать
-- [ ] https://habrahabr.ru/company/jugru/blog/328532/
-- [ ] https://habrahabr.ru/company/it_people/blog/325516/
-- [ ] http://radio-qa.com/
-- [ ] https://habrahabr.ru/company/badoo/blog/301764/
-- [ ] https://dou.ua/lenta/digests/qa-digest-19/ (все дайджесты)
-- [ ] http://bilohorodskyi.blogspot.com/2016/06/junior-qa-engineer.html
-- [ ] http://software-testing.ru/events/review/2265-code-fest-2016
-- [ ] http://www.maxshulga.ru/2016/06/useful-testers-resources.html
-- [ ] https://habrahabr.ru/company/rambler-co/blog/303254/
-- [ ] https://www.youtube.com/channel/UCxFyB18x7XJTUuwHgPVfnkQ/playlists
-
-
-
 # Тренировать
 - [ ] Обнаружение и описание ошибок. Find and precisely describe, reproduce and rate bugs found in games.
 * If you have 10-30 minutes: find bug in some game in the list https://github.com/leereilly/games and translate into Russian
@@ -21,10 +7,11 @@
 - [ ] Знание основ программирования 
 * Повторить SQL, C#
 - [ ] Понимание процесса тестирования (вообще и относительно к играм в частности)
-* http://sqadays.com/ru/talk/11088 (углубиться)
-* http://okiseleva.blogspot.com/2011/12/blog-post_29.html (углубиться)
 * http://blog.aksi.rocks/2016/06/blog-post.html
 * http://software-testing.ru/library/testing/other-testing/2260-testing-games-is-hard
+* http://sqadays.com/ru/talk/11088 (углубиться)
+* http://okiseleva.blogspot.com/2011/12/blog-post_29.html (углубиться)
+* https://dou.ua/lenta/digests/qa-digest-19/ (все дайджесты)
 - [ ] Familiarity with iOS and Android apps. Good knowledge of mobile and tablet navigation
 - [ ] Experience of bug tracking systems (Devtrack, Mantis, Jira)
 - [ ] An understanding of the game development process
