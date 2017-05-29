@@ -7,11 +7,10 @@
 - [ ] Знание основ программирования 
 * Повторить SQL, C#
 - [ ] Понимание процесса тестирования (вообще и относительно к играм в частности)
-* http://blog.aksi.rocks/2016/06/blog-post.html
-* http://software-testing.ru/library/testing/other-testing/2260-testing-games-is-hard
-* http://sqadays.com/ru/talk/11088 (углубиться)
-* http://okiseleva.blogspot.com/2011/12/blog-post_29.html (углубиться)
-* https://dou.ua/lenta/digests/qa-digest-19/ (все дайджесты)
+* http://testbase.ru/ (отпуск)
+* http://sqadays.com/ru/talk/11088 (отпуск)
+* http://okiseleva.blogspot.com/2011/12/blog-post_29.html (отпуск)
+* https://dou.ua/lenta/digests/qa-digest-19/ (отпуск)
 - [ ] Familiarity with iOS and Android apps. Good knowledge of mobile and tablet navigation
 - [ ] Experience of bug tracking systems (Devtrack, Mantis, Jira)
 - [ ] An understanding of the game development process
