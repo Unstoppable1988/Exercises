@@ -16,6 +16,7 @@
 - [ ] Обнаружение и описание ошибок. Find and precisely describe, reproduce and rate bugs found in games.
 * If you have 10-30 minutes: find bug in some game in the list https://github.com/leereilly/games and translate into Russian
 * If you have enough time: rewrite bug report according to https://testlio.com/blog/the-ideal-bug-report/ template and save to github
+* If you feel lucky try to write test case for bug according to https://testlio.com/blog/write-test-case-structured-project-team/
 - [ ] Знание английского языка на уровне грамотного написания отчетов об ошибках
 - [ ] Знание основ программирования 
 * Повторить SQL, C#
