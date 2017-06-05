@@ -6,3 +6,5 @@
 |30.05.2017|Translated and Designed 2 bugs|
 |01.06.2017|Listened to podcast #5 and #6|
 |01.06.2017|Translated and Designed 1 bug|
+|02.06.2017|Listened to podcast #7 and #8|
+|05.06.2017|Listened to podcast #9|
