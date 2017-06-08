@@ -11,3 +11,4 @@
 |05.06.2017|Translated and Designed 4 bugs|
 |06.06.2017|Translated and Designed 2 bugs|
 |07.06.2017|Listened to podcast #10|
+|07.06.2017|Made changes to summary|
