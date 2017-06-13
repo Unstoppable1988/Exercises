@@ -15,3 +15,4 @@
 |08.06.2017|Translated and Designed 1 bug|
 |10.06.2017|Listened to podcast #11 and #12|
 |10.06.2017|Listened to podcast #13 and #14|
+|12.06.2017|Listened to podcast #14|
