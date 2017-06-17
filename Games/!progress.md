@@ -18,3 +18,4 @@
 |12.06.2017|Listened to podcast #15|
 |13.06.2017|Translated and Designed 2 bugs|
 |14.06.2017|Listened to podcast #16|
+|16.06.2017|Listened to podcast #17|
