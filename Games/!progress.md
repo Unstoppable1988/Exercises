@@ -20,3 +20,4 @@
 |14.06.2017|Listened to podcast #16|
 |16.06.2017|Listened to podcast #17|
 |19.06.2017|Listened to podcast #18|
+|19.06.2017|Read and translate pages 1-2 "A Case Of Identity" Book|
