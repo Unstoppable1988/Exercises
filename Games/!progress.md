@@ -26,3 +26,4 @@
 |22.06.2017|Read and translate pages 9-13 "A Case Of Identity" Book. Finished|
 |23.06.2017|Listened to podcast #19|
 |23.06.2017|Tried to learn 46 new words after reading the book|
+|25.06.2017|Designed 1 bug|
