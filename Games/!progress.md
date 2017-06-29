@@ -27,3 +27,6 @@
 |23.06.2017|Listened to podcast #19|
 |23.06.2017|Tried to learn 46 new words after reading the book|
 |25.06.2017|Designed 1 bug|
+|26.06.2017|Designed 1 bug|
+|28.06.2017|Learned 46 new words after reading the book|
+|29.06.2017|Read and translate pages 1-6 "Alladin" Book. Finished|
