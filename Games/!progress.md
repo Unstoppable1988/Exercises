@@ -30,3 +30,8 @@
 |26.06.2017|Designed 1 bug|
 |28.06.2017|Learned 46 new words after reading the book|
 |29.06.2017|Read and translate pages 1-6 "Alladin" Book. Finished|
+|29.06.2017|Read and translate pages 1-5 "Ali baba and the forty thieves" Book. Finished|
+|30.06.2017|English - Lingvoleo|
+|01.07.2017|Listened to podcast #20 and #21|
+|02.07.2017|Listened to podcast #22 and #23|
+|03.07.2017|Listened to podcast #24|
