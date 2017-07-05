@@ -36,3 +36,4 @@
 |02.07.2017|Listened to podcast #22 and #23|
 |03.07.2017|Listened to podcast #24|
 |04.07.2017|English - Lingvoleo|
+|05.07.2017|English - Lingvoleo|
