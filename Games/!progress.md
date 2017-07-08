@@ -38,3 +38,7 @@
 |04.07.2017|English - Lingvoleo|
 |05.07.2017|Listened to podcast #25|
 |05.07.2017|English - Lingvoleo|
+|06.07.2017|English - Lingvoleo|
+|29.06.2017|Read and translate pages 1-6 "20,000 Leagues Under the Sea" Book.|
+|07.07.2017|Listened to podcast #27|
+|08.07.2017|English - Lingvoleo|
