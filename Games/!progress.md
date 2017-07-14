@@ -44,5 +44,9 @@
 |08.07.2017|English - Lingvoleo|
 |09.07.2017|English - Lingvoleo|
 |10.07.2017|English - Lingvoleo 1 hour|
-|11.07.2017|Read and translate pages 7-12 "20,000 Leagues Under the Sea" Book.|
+|11.07.2017|Read and translate pages 7-11 "20,000 Leagues Under the Sea" Book.|
 |11.07.2017|English - Lingvoleo 1 hour|
+|13.07.2017|English - Lingvoleo 2 hour|
+|13.07.2017|Read and translate pages 12-16 "20,000 Leagues Under the Sea" Book.|
+|14.07.2017|English - Lingvoleo 1,5 hour|
+|14.07.2017|Read and translate pages 17-23 "20,000 Leagues Under the Sea" Book. Finished|
