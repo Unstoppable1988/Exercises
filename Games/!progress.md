@@ -50,3 +50,11 @@
 |13.07.2017|Read and translate pages 12-16 "20,000 Leagues Under the Sea" Book.|
 |14.07.2017|English - Lingvoleo 1,5 hour|
 |14.07.2017|Read and translate pages 17-23 "20,000 Leagues Under the Sea" Book. Finished|
+|14.07.2017|English - Lingvoleo 0,5 hour|
+|15.07.2017|Listened to podcast #28|
+|16.07.2017|Listened to podcast #29|
+|16.07.2017|English - Lingvoleo 0,5 hour|
+|17.07.2017|Read and translate pages 1-7 "Blackbeard's Treasure" Book.|
+|17.07.2017|English - Lingvoleo 1,5 hour|
+|18.07.2017|Read and translate pages 8-20 "Blackbeard's Treasure" Book.|
+|18.07.2017|English - Lingvoleo 1 hour|
