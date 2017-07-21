@@ -58,3 +58,9 @@
 |17.07.2017|English - Lingvoleo 1,5 hour|
 |18.07.2017|Read and translate pages 8-20 "Blackbeard's Treasure" Book.|
 |18.07.2017|English - Lingvoleo 1 hour|
+|19.07.2017|Read and translate pages 21-31 "Blackbeard's Treasure" Book. Finished|
+|19.07.2017|English - Lingvoleo 0,75 hour|
+|20.07.2017|Read and translate pages 1-6 "A shoot in night" Book.|
+|20.07.2017|English - Lingvoleo 0,5 hour|
+|21.07.2017|Read and translate pages 7-13 "A shoot in night" Book.|
+|21.07.2017|English - Lingvoleo 0,25 hour|
